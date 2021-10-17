@@ -1,0 +1,35 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body{
+  background: rgb(15, 23, 42);
+    color: wheat;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.menu_style{
+  width: 80%;
+  line-height: 60px;
+  background-color: rgb(14, 165, 233);
+  display: flex;
+  justify-content: space-evenly;
+}
+.search{
+  border-style: none;
+  background: rgb(15, 23, 42);
+  border-radius: 33px;
+  text-align: center;
+  color: azure;
+  font-size: 23px;
+}
+.discoverOption{
+  /* margin-left: 30%; */
+  /* width: 30%; */
+  height: 100vh;
+  
+  background-color: rgb(31, 31, 83);
+  background: rgb(31, 31, 83); ;
+
+}
